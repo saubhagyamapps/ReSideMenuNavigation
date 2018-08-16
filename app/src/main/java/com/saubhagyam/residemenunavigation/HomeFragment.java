@@ -8,12 +8,6 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import com.special.ResideMenu.ResideMenu;
 
-/**
- * User: special
- * Date: 13-12-22
- * Time: 下午1:33
- * Mail: specialcyci@gmail.com
- */
 public class HomeFragment extends Fragment {
 
     private View parentView;

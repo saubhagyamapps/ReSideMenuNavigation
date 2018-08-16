@@ -10,12 +10,7 @@ import android.widget.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * User: special
- * Date: 13-12-22
- * Time: 下午3:26
- * Mail: specialcyci@gmail.com
- */
+
 public class CalendarFragment extends Fragment {
 
     private View parentView;
